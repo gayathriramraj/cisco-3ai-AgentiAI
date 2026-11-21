@@ -1,0 +1,6 @@
+sku,product,quantity,reorder_level,unit_price
+P001,Laptop,5,8,55000
+P002,Mouse,40,20,500
+P003,Keyboard,7,10,1200
+P004,Monitor,12,6,9000
+P005,USB Cable,3,15,250
