@@ -1,5 +1,20 @@
 [
-  {"id": "T101", "issue": "Employee cannot log in after password reset", "status": "open", "priority": "medium"},
-  {"id": "T102", "issue": "Company-wide checkout service is down", "status": "open", "priority": "high"},
-  {"id": "T103", "issue": "Request for new office mouse", "status": "open", "priority": "low"}
+  {
+    "id": "T101",
+    "issue": "Employee cannot log in after password reset",
+    "status": "open",
+    "priority": "low"
+  },
+  {
+    "id": "T102",
+    "issue": "Company-wide checkout service is down",
+    "status": "open",
+    "priority": "high"
+  },
+  {
+    "id": "T103",
+    "issue": "Request for new office mouse",
+    "status": "open",
+    "priority": "low"
+  }
 ]
